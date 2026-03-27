@@ -1,11 +1,11 @@
 # python-calculator
 Basic Python calculator using OOP with addition , subtraction , multiplication and division .
 
-##Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-#How to run
+# How to run
 Run the python file and enter inputs
